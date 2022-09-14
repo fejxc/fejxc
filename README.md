@@ -14,7 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=fejxc&show_icons=true&include_all_commits=true&hide_border=true" />
+
+### Hi there 👋
+
 - 🔭 I’m currently working on Java 
-- 🌱 I’m currently learning java,python
-- 📫 How to reach me: fejxc
-![](https://github-readme-stats.vercel.app/api?username=fejxc&show_icons=true)
+- 🌱 I’m currently learning java and analytics and storage of big data
+- 📫 How to reach me: 1031364436@qq.com
+- ⚡ Fun fact: like cat and dog
